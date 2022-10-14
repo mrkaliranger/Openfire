@@ -281,7 +281,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-text</artifactId>
-            <version>1.6</version>
+            <version>1.10.0</version>
         </dependency>
         <dependency>
             <groupId>commons-codec</groupId>
@@ -337,7 +337,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.17</version>
+            <version>8.0.31</version>
         </dependency>
         <dependency>
             <groupId>org.postgresql</groupId>
